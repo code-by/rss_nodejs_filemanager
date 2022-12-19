@@ -1,0 +1,26 @@
+{
+  "name": "filemanager-nodejs",
+  "version": "1.0.0",
+  "description": "Filemanager nodejs app",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0 <19.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-by/rss_nodejs_filemanager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments"
+  ],
+  "author": "code-by",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-by/rss_nodejs_filemanager.git/issues"
+  },
+  "homepage": "https://github.com/code-by/rss_nodejs_filemanager#readme"
+}
